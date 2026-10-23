@@ -1,0 +1,11 @@
+langgraph
+langchain-openai
+langchain-core
+langchain-text-splitters
+chromadb
+sentence-transformers
+wikipedia-api
+fastapi
+uvicorn
+nest-asyncio
+requests
